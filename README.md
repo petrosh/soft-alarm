@@ -6,10 +6,10 @@ soft alarm panel for agitated minds – now with edge parser
 Plug-ins
 --------
 
-- [moment-timezone](https://github.com/moment/moment-timezone)  
-- [jquery.countdown](https://github.com/kemar/jquery.countdown)  
-- [store.js](https://github.com/marcuswestin/store.js)
-- [favico.js](https://github.com/ejci/favico.js)
+- [moment](https://github.com/moment/moment)  
+- [store.js](https://github.com/marcuswestin/store.js)  
+- [jquery.countdown](https://github.com/kemar/jquery.countdown)  jquery-1.10.1  
+- [favico.js](https://github.com/ejci/favico.js) jquery-1.10.1  
 
 Functions
 -------
@@ -29,7 +29,7 @@ Features
 Modules
 -------
 
-- **INPUT** – Parse text and store object  
+- **INPUT** – Parse text, store object and *SORT IT*  
 - **ALARM** – Generate events required
 - **RUNTIME** – Tune / change / watch  
 
